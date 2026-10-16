@@ -1,0 +1,61 @@
+{
+  "premissas": {
+    "pv_kwp": 20.0,
+    "inv_kw": 20.0,
+    "bat_kwh": 20.0,
+    "bat_kw": 12.0,
+    "soc_min": 0.1,
+    "eta": 0.975,
+    "base_kw": 1.0,
+    "tarifa_fora": 0.669,
+    "tarifa_inter": 0.985,
+    "tarifa_ponta": 1.48,
+    "ponta": [
+      17.5,
+      20.5
+    ],
+    "inter": [
+      [
+        16.5,
+        17.5
+      ],
+      [
+        20.5,
+        21.5
+      ]
+    ],
+    "credito_export": 0.45,
+    "irradiacao": 4.1,
+    "pr": 0.8,
+    "fator_rede": 0.0385,
+    "gasolina_kg_km": 0.19,
+    "ev_kwh_km": 0.15,
+    "seed": 7
+  },
+  "base": {
+    "energia_ev_kwh": 118.0,
+    "fv_gerado_kwh": 65.6,
+    "autoconsumo_pct": 73.3,
+    "fracao_solar_pct": 33.9,
+    "import_rede_kwh": 93.9,
+    "import_ponta_kwh": 50.0,
+    "export_kwh": 17.5,
+    "custo_liquido_rs": 96.01,
+    "co2_rede_kg": 3.62,
+    "co2_gasolina_evitado_kg": 145.9,
+    "energia_nao_entregue_kwh": 0.0
+  },
+  "inteligente": {
+    "energia_ev_kwh": 118.0,
+    "fv_gerado_kwh": 65.6,
+    "autoconsumo_pct": 100.0,
+    "fracao_solar_pct": 46.2,
+    "import_rede_kwh": 72.6,
+    "import_ponta_kwh": 33.8,
+    "export_kwh": 0.0,
+    "custo_liquido_rs": 82.13,
+    "co2_rede_kg": 2.8,
+    "co2_gasolina_evitado_kg": 146.7,
+    "energia_nao_entregue_kwh": 0.0
+  }
+}
