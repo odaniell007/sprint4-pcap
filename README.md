@@ -7,7 +7,8 @@
 - Leonardo Takachi (RM 569066)
   
 **Disciplina:** Pensamento Computacional e Automação com Python — FIAP
-**Vídeo técnico:** `<link YouTube não listado>`
+
+**Vídeo:** `https://youtu.be/mP8a5E5-jrM`
 
 ## 1. Resumo
 Estação de recarga de veículos elétricos alimentada por geração solar, com armazenamento em bateria e um **algoritmo de agendamento solar-first** que decide, a cada 15 minutos, quando e quanto cada veículo carrega. O objetivo é usar a energia renovável no momento em que ela é gerada, evitar a rede no horário de ponta e garantir que todos os veículos saiam carregados no horário prometido.
